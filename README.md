@@ -1,6 +1,7 @@
 # 📌 Linklytics - URL Shortening Web Application  
 
 🚀 **Linklytics** is a full-stack URL shortening application that simplifies link sharing, enhances analytics, and ensures security. The platform allows users to shorten URLs, track usage analytics, and manage their links effectively.
+🔗 [Live Demo](https://resplendent-bavarois-38b764.netlify.app/)  
 
 ---
 
