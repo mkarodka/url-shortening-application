@@ -71,11 +71,11 @@
 
 ### Frontend Deployment  
 - 🌐 Hosted on **Netlify**  
-- 🔗 Example: [Live Demo](https://resplendent-bavarois-38b764.netlify.app/)  
+- 🔗 [Live Demo](https://resplendent-bavarois-38b764.netlify.app/)  
 
 ### Backend Deployment  
 - 🚀 Hosted on **Render**  
-- 🔗 Example: [API Server](https://url-shortener-sb-sfua.onrender.com)  
+- 🔗 [API Server](https://url-shortener-sb-sfua.onrender.com)  
 
 ### Database (PostgreSQL)  
 - 💾 Created on **Neon.tech**  
