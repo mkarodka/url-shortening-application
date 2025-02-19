@@ -82,6 +82,9 @@
 ### Database (PostgreSQL)  
 - 💾 Created on **Neon.tech**  
 
+## Dockerization and Image Creation
+- [Dockerized Image](https://hub.docker.com/repository/docker/mugdha0819/url-shortener-sb/general)
+
 ---
 
 ## 📌 Future Enhancements  
