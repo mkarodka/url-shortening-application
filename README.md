@@ -35,7 +35,9 @@
 
 📸 Below are some screenshots showcasing how the website works and visualizes analytics.
 
-![image](https://github.com/user-attachments/assets/c58c453d-b86a-4b0d-b9d5-b36831136fa9)
+![image](https://github.com/user-attachments/assets/142bc0ff-22ea-4b00-b86b-f19f0ca49496)
+![image](https://github.com/user-attachments/assets/b42d83fd-3985-48fa-9a51-706baaa94c05)
+![image](https://github.com/user-attachments/assets/680d6727-c114-48c7-bbc7-e80ed7e824b2)
 
 ---
 
