@@ -8,13 +8,15 @@
 
 ### Frontend  
 - ⚡ **React.js** + Vite  
-- 🎨 **Tailwind CSS**  
+- 🎨 **Tailwind CSS**
+- **Cloud - netlify** 
 
 ### Backend  
 - ☕ **Java** + Spring Boot  
 - 🔒 **Spring Security**  
 - 📦 **JPA (Java Persistence API)**  
-- 🛢 **PostgreSQL**  
+- 🛢 **PostgreSQL - Neon.tech**
+- **Cloud - Render**
 
 ### Authentication  
 - 🔑 **JWT Token Authentication**  
